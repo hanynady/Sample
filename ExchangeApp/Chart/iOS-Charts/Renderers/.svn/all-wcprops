@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers
+END
+RadarChartRenderer.swift
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/RadarChartRenderer.swift
+END
+ChartDataRendererBase.swift
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/ChartDataRendererBase.swift
+END
+CombinedChartRenderer.swift
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/CombinedChartRenderer.swift
+END
+CandleStickChartRenderer.swift
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/CandleStickChartRenderer.swift
+END
+ChartXAxisRenderer.swift
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/ChartXAxisRenderer.swift
+END
+ChartYAxisRenderer.swift
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/ChartYAxisRenderer.swift
+END
+ScatterChartRenderer.swift
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/ScatterChartRenderer.swift
+END
+ChartXAxisRendererBarChart.swift
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/ChartXAxisRendererBarChart.swift
+END
+ChartXAxisRendererHorizontalBarChart.swift
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/ChartXAxisRendererHorizontalBarChart.swift
+END
+LineChartRenderer.swift
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/LineChartRenderer.swift
+END
+BarChartRenderer.swift
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/BarChartRenderer.swift
+END
+ChartLegendRenderer.swift
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/ChartLegendRenderer.swift
+END
+ChartYAxisRendererHorizontalBarChart.swift
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/ChartYAxisRendererHorizontalBarChart.swift
+END
+ChartRendererBase.swift
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/ChartRendererBase.swift
+END
+HorizontalBarChartRenderer.swift
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/HorizontalBarChartRenderer.swift
+END
+LineScatterCandleRadarChartRenderer.swift
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/LineScatterCandleRadarChartRenderer.swift
+END
+ChartAxisRendererBase.swift
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/ChartAxisRendererBase.swift
+END
+BubbleChartRenderer.swift
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/BubbleChartRenderer.swift
+END
+PieChartRenderer.swift
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/PieChartRenderer.swift
+END
+ChartXAxisRendererRadarChart.swift
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/ChartXAxisRendererRadarChart.swift
+END
+ChartYAxisRendererRadarChart.swift
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Renderers/ChartYAxisRendererRadarChart.swift
+END

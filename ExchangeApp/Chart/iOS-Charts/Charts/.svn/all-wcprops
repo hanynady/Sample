@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Charts
+END
+BarLineChartViewBase.swift
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Charts/BarLineChartViewBase.swift
+END
+RadarChartView.swift
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Charts/RadarChartView.swift
+END
+CombinedChartView.swift
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Charts/CombinedChartView.swift
+END
+LineChartView.swift
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Charts/LineChartView.swift
+END
+BarChartView.swift
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Charts/BarChartView.swift
+END
+CandleStickChartView.swift
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Charts/CandleStickChartView.swift
+END
+ChartViewBase.swift
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Charts/ChartViewBase.swift
+END
+HorizontalBarChartView.swift
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Charts/HorizontalBarChartView.swift
+END
+ScatterChartView.swift
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Charts/ScatterChartView.swift
+END
+BubbleChartView.swift
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Charts/BubbleChartView.swift
+END
+PieChartView.swift
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Charts/PieChartView.swift
+END
+PieRadarChartViewBase.swift
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Charts/PieRadarChartViewBase.swift
+END

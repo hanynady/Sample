@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Utils
+END
+ChartTransformer.swift
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Utils/ChartTransformer.swift
+END
+CALayer+Extensions.swift
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Utils/CALayer+Extensions.swift
+END
+ChartSelectionDetail.swift
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Utils/ChartSelectionDetail.swift
+END
+UIGraphics+Extensions.swift
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Utils/UIGraphics+Extensions.swift
+END
+ChartUtils.swift
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Utils/ChartUtils.swift
+END
+ChartColorTemplates.swift
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Utils/ChartColorTemplates.swift
+END
+ChartViewPortHandler.swift
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Utils/ChartViewPortHandler.swift
+END
+BalloonMarker.swift
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Utils/BalloonMarker.swift
+END
+ChartFillFormatter.swift
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Utils/ChartFillFormatter.swift
+END
+ChartTransformerHorizontalBarChart.swift
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/MobileRepository/!svn/ver/28491/Iphone/MyFawry/trunk/Classes/External/iOS-Charts/Utils/ChartTransformerHorizontalBarChart.swift
+END

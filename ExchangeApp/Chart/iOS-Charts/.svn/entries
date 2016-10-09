@@ -1,0 +1,62 @@
+10
+
+dir
+28647
+https://sourcesafe.emeint.net:8443/svn/MobileRepository/Iphone/MyFawry/trunk/Classes/External/iOS-Charts
+https://sourcesafe.emeint.net:8443/svn/MobileRepository
+
+
+
+2016-02-28T12:56:03.791425Z
+28491
+hanyn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+eaca7c21-4147-5849-829c-def022dfa6b9
+
+
+
+
+
+
+0
+
+Animation
+dir
+
+Charts
+dir
+
+Components
+dir
+
+Data
+dir
+
+Filters
+dir
+
+Formatters
+dir
+
+Highlight
+dir
+
+Renderers
+dir
+
+Utils
+dir
+
